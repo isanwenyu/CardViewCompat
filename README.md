@@ -9,6 +9,8 @@ I haved edited  the following code:
 
 1. CardViewApi21 extends CardViewJellybeanMr1.
 
+2. Remove RoundRectDrawable.
+
 ## TODO
 
 [ ] Add the attribute to customize the shawdow color.
@@ -18,7 +20,6 @@ I haved edited  the following code:
 ## License
  
   Copyright (C) 2017 isanwenyu@163.com
-  
   Copyright (C) 2014 The Android Open Source Project
  
   Licensed under the Apache License, Version 2.0 (the "License");
